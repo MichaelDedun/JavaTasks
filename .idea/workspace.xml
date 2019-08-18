@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1dd256e-2316-48e6-8bc6-9eb29a0dc2f4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PHEoy5YXr3aesMN3yqWmoFxeBW" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in lessons">
+    <configuration name="All in lessons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessons" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEllipse.testIsPointInsideEllipse1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.thumbtack.school.figures.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.thumbtack.school.figures.v1" />
+      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestEllipse" />
+      <option name="METHOD_NAME" value="testIsPointInsideEllipse1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEllipse.testIsPointInsideEllipse2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.thumbtack.school.figures.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.thumbtack.school.figures.v1" />
+      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestEllipse" />
+      <option name="METHOD_NAME" value="testIsPointInsideEllipse2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRectangle.testMoveRectangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.thumbtack.school.figures.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.thumbtack.school.figures.v1" />
+      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestRectangle" />
+      <option name="METHOD_NAME" value="testMoveRectangle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSquare.testIsIntersectsSquare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.thumbtack.school.figures.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.thumbtack.school.figures.v1" />
+      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestSquare" />
+      <option name="METHOD_NAME" value="testIsIntersectsSquare" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in lessons" />
+        <item itemvalue="JUnit.TestEllipse.testIsPointInsideEllipse2" />
+        <item itemvalue="JUnit.TestEllipse.testIsPointInsideEllipse1" />
+        <item itemvalue="JUnit.TestSquare.testIsIntersectsSquare" />
+        <item itemvalue="JUnit.TestRectangle.testMoveRectangle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1dd256e-2316-48e6-8bc6-9eb29a0dc2f4" name="Default Changelist" comment="" />
+      <created>1565522799891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565522799891</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/net/thumbtack/school/introduction/TestFirstSteps.java</url>
+          <line>121</line>
+          <properties class="net.thumbtack.school.introduction.TestFirstSteps" method="testSortedDescendantArray">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lessons$TestFirstSteps_testCubeArray.ic" NAME="TestFirstSteps.testCubeArray Coverage Results" MODIFIED="1565528433204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.thumbtack.school.introduction.*</FILTER>
+    </SUITE>
+  </component>
+</project>
