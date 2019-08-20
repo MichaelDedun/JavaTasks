@@ -31,16 +31,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in lessons">
-    <configuration name="All in lessons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lessons" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestEllipse.testIsPointInsideEllipse1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestColoredCircle">
+    <configuration name="TestColoredCircle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lessons" />
       <extension name="coverage">
         <pattern>
@@ -49,14 +41,44 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="net.thumbtack.school.figures.v1" />
-      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestEllipse" />
-      <option name="METHOD_NAME" value="testIsPointInsideEllipse1" />
+      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestColoredCircle" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestColoredRectangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.thumbtack.school.figures.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.thumbtack.school.figures.v1" />
+      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestColoredRectangle" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestColoredRectangle.testColoredRectangle3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.thumbtack.school.figures.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.thumbtack.school.figures.v1" />
+      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestColoredRectangle" />
+      <option name="METHOD_NAME" value="testColoredRectangle3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestEllipse.testIsPointInsideEllipse2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestColoredRectangle.testColoredRectangle4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lessons" />
       <extension name="coverage">
         <pattern>
@@ -65,14 +87,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="net.thumbtack.school.figures.v1" />
-      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestEllipse" />
-      <option name="METHOD_NAME" value="testIsPointInsideEllipse2" />
+      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestColoredRectangle" />
+      <option name="METHOD_NAME" value="testColoredRectangle4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRectangle.testMoveRectangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestColoredRectangle.testEqualsColoredRectangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lessons" />
       <extension name="coverage">
         <pattern>
@@ -81,24 +103,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="net.thumbtack.school.figures.v1" />
-      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestRectangle" />
-      <option name="METHOD_NAME" value="testMoveRectangle" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSquare.testIsIntersectsSquare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.thumbtack.school.figures.v1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="net.thumbtack.school.figures.v1" />
-      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestSquare" />
-      <option name="METHOD_NAME" value="testIsIntersectsSquare" />
+      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestColoredRectangle" />
+      <option name="METHOD_NAME" value="testEqualsColoredRectangle" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in lessons" />
-        <item itemvalue="JUnit.TestEllipse.testIsPointInsideEllipse2" />
-        <item itemvalue="JUnit.TestEllipse.testIsPointInsideEllipse1" />
-        <item itemvalue="JUnit.TestSquare.testIsIntersectsSquare" />
-        <item itemvalue="JUnit.TestRectangle.testMoveRectangle" />
+        <item itemvalue="JUnit.TestColoredCircle" />
+        <item itemvalue="JUnit.TestColoredRectangle.testEqualsColoredRectangle" />
+        <item itemvalue="JUnit.TestColoredRectangle" />
+        <item itemvalue="JUnit.TestColoredRectangle.testColoredRectangle4" />
+        <item itemvalue="JUnit.TestColoredRectangle.testColoredRectangle3" />
       </list>
     </recent_temporary>
   </component>
