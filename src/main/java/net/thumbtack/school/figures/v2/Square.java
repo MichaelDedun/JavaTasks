@@ -1,10 +1,8 @@
-package net.thumbtack.school.figures.v1;
-
-import net.thumbtack.school.figures.v2.Figure;
+package net.thumbtack.school.figures.v2;
 
 import java.util.Objects;
 
-public class Square {
+public class Square extends Figure {
     private Point leftTop;
     private int size;
 
@@ -48,10 +46,6 @@ public class Square {
         leftTop.moveTo(x, y);
     }
 
-    public void moveTo(Point point) {
-        moveTo(point.getX(), point.getY());
-    }
-
     public void moveRel(int dx, int dy) {
         leftTop.moveRel(dx, dy);
     }
@@ -72,9 +66,6 @@ public class Square {
         return x <= getBottomRight().getX() && x >= leftTop.getX() && y <= getBottomRight().getY() && y >= leftTop.getY();
     }
 
-    public boolean isInside(Point point) {
-        return isInside(point.getX(), point.getY());
-    }
 
     public boolean isIntersects(Square square) {
         return Math.max(this.getTopLeft().getX(), square.getTopLeft().getX()) <= Math.min(this.getBottomRight().getX(), square.getBottomRight().getX())

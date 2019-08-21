@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1dd256e-2316-48e6-8bc6-9eb29a0dc2f4" name="Default Changelist" comment="" />
+    <list default="true" id="d1dd256e-2316-48e6-8bc6-9eb29a0dc2f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/thumbtack/school/figures/v1/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/thumbtack/school/figures/v1/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/thumbtack/school/figures/v1/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/thumbtack/school/figures/v1/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/net/thumbtack/school/figures/v1/TestCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/net/thumbtack/school/figures/v1/TestColoredCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/net/thumbtack/school/figures/v1/TestColoredRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/net/thumbtack/school/figures/v1/TestEllipse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/net/thumbtack/school/figures/v1/TestRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/net/thumbtack/school/figures/v1/TestSquare.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,11 +23,24 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="task4" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PHEoy5YXr3aesMN3yqWmoFxeBW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -31,7 +55,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestColoredCircle">
+  <component name="RunManager" selected="JUnit.net.thumbtack.school.figures.v2 in lessons">
+    <configuration name="TestCircle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.thumbtack.school.figures.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.thumbtack.school.figures.v1" />
+      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestCircle" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestColoredCircle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lessons" />
       <extension name="coverage">
@@ -62,38 +101,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestColoredRectangle.testColoredRectangle3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.thumbtack.school.figures.v1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="net.thumbtack.school.figures.v1" />
-      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestColoredRectangle" />
-      <option name="METHOD_NAME" value="testColoredRectangle3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestColoredRectangle.testColoredRectangle4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.thumbtack.school.figures.v1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="net.thumbtack.school.figures.v1" />
-      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.figures.v1.TestColoredRectangle" />
-      <option name="METHOD_NAME" value="testColoredRectangle4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestColoredRectangle.testEqualsColoredRectangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lessons" />
       <extension name="coverage">
@@ -110,13 +117,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="net.thumbtack.school.figures.v2 in lessons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.thumbtack.school.figures.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.thumbtack.school.figures.v2" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.net.thumbtack.school.figures.v2 in lessons" />
+        <item itemvalue="JUnit.TestCircle" />
         <item itemvalue="JUnit.TestColoredCircle" />
         <item itemvalue="JUnit.TestColoredRectangle.testEqualsColoredRectangle" />
         <item itemvalue="JUnit.TestColoredRectangle" />
-        <item itemvalue="JUnit.TestColoredRectangle.testColoredRectangle4" />
-        <item itemvalue="JUnit.TestColoredRectangle.testColoredRectangle3" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +153,19 @@
       <updated>1565522799891</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
